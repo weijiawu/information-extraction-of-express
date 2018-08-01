@@ -7,7 +7,7 @@
 ### 1、利用OpenCV的二值化、滤波、形态学处理得到最大的数字区域
 **express detection.py**
 结果：
-![Alt text](https://github.com/weijiawu/information-extraction-of-express/tree/master/image/1533113515(1).png)
+![Alt text](https://github.com/weijiawu/information-extraction-of-express/raw/master/image/1533113515(1).png)
 
 
 ### 2、运用霍夫变换检测直线得到目标信息
