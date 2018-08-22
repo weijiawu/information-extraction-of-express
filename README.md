@@ -17,5 +17,5 @@
 ### 3、文本识别：DenseNet + CTC
 **ocr_recognition**
 效果：
-<div align=center>![Alt text](https://github.com/weijiawu/information-extraction-of-express/raw/master/image/1534857600(1).png)
+![Alt text](https://github.com/weijiawu/information-extraction-of-express/raw/master/image/1534857600(1).png)
 
